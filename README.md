@@ -1,5 +1,6 @@
 # Tomato-Leaf-Disease-Prediction-Using-CNN
-Tomato-Leaf-Disease-Prediction-Using-CNN (VGG16 and VGG19) and Resnet (ResNet50)
+
+#### Tomato-Leaf-Disease-Prediction-Using-CNN (VGG16 and VGG19) and Resnet (ResNet50)
 
 ## VGG Architecture
 
