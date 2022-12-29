@@ -1,8 +1,15 @@
 # Tomato-Leaf-Disease-Prediction-Using-CNN
 
-#### Tomato-Leaf-Disease-Prediction-Using-CNN (VGG16 and VGG19) and Resnet (ResNet50)
+<!------------------------------------------>
+* ## Generic Template For Creating Tranfer Learning Model
 
-## VGG Architecture
+<!------------------------------------->
+#### Tomato-Leaf-Disease-Prediction-Using-CNN VGG (VGG16 and VGG19) ,Resnet (ResNet50) and Inception (inception v3)
 
-![image](https://user-images.githubusercontent.com/69152112/209336544-e947f42f-8c8e-407b-804a-6e9417251221.png)
+![image](https://user-images.githubusercontent.com/69152112/209929398-f1ba8f3d-08bc-4394-85a0-1a10492c6e23.png)
+
+![image](https://user-images.githubusercontent.com/69152112/209929488-bc6e2768-5003-4fee-a034-b1d205493038.png)
+
+
+
 
